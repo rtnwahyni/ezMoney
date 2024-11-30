@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ezMoney</string>
+    <string name="title_home">Home</string>
+    <string name="title_activity">Activity</string>
+    <string name="title_statistic">Statistic</string>
+    <string name="title_wallet">Wallet</string>
+    <string name="funding_source">Sumber Pendanaan: Rp0</string>
+    <string name="savings">Tabungan : Rp0</string>
+    <string-array name="kategori_array">
+        <item>Gaji</item>
+        <item>Bonus</item>
+        <item>Hadiah</item>
+        <item>Lainnya</item>
+    </string-array>
+</resources>
